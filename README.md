@@ -1,6 +1,23 @@
 # Sales-Analytics
 Analysis on super market sales using SQL and Tableau
 
+Objective: Analyze retail sales data to uncover trends, identify top-performing products and categories, and pinpoint peak sales periods.
+
+Dataset Source:
+
+Name:
+
+Details: Includes transactional data such as product categories, payment methods, customer types, and timestamps.
+
+Skills and Tools:
+
+SQL Queries: Filtering, Sorting, and Summarizing data.
+
+Analysis Techniques: Calculating total and average sales, understanding seasonal trends. Outcome: Develop insights to optimize sales strategies and product offerings.
+
+
+HOW TO ANALYZE:
+
 Step 1: Data Preparation Import the Supermarket Sales dataset into a SQL database. Perform initial data cleaning to handle miss values and correct data formats.
 
 Step 2: Basic analysis Execute basic SQL queries to explore data: total sales per day, top- selling productsm and average customer spend.
